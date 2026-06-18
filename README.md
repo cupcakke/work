@@ -1,5 +1,3 @@
-ÁTTEKINTÉS
-
 A CREVPipeline (Kognitív Relációs Kinyerési és Validálási Csővezeték) egy nagy teljesítményű rendszer, amelyet arra terveztek, hogy strukturálatlan és félig strukturált adatfolyamokat validált, indexelt Tudásgráffá alakítson át. Hidat képez a nyers bemenet (szöveg, strukturált adat, képmetaadat) és az nsir_core és chaos_core alrendszerek által használt formális gráfreprezentációk között.
 
 A rendszer a RelationalTriplet fogalmára épül, amely egy adatstruktúra, ami két entitás közötti szemantikai kapcsolatot reprezentál. A csővezeték kezeli ezeknek a hármasoknak a teljes életciklusát: a kezdeti kinyeréstől és nyelvi tőképzéstől a statisztikai anomáliadetektáláson át a memóriamagban való végső tárolásig.
